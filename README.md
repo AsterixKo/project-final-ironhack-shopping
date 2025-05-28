@@ -13,6 +13,13 @@ En este proyecto podemos gestionar mediante llamadas a la api las siguientes acc
 - Limpiar el carrito de compra.
 - Actualizar el stock cuando hacemos una venta.
 
+## Trello:
+[Tareas de trello](https://trello.com/b/rr8rQcxq/proyectofinal)
+
+## Presentación:
+
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRytWtDc_eOHEHP8A5JWRW1l6Opb4TlfogapQDTar0orZ_5Vxs9QyrjMrB9enxpnHqIMbQSyS5Tsblg/pub?start=false&loop=false&delayms=3000)
+
 ## UML:
 ![](/images/proyecto_final_uml_basico.png)
 
